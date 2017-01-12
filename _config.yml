@@ -2,8 +2,8 @@
 title: Developer
 email: kanitha@gmail.com
 url: https://kanithaplayer.github.io/
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Hi! I'm Kanitha I make websites and things"
+description: "They said I should edit this because this comes up in a search so: kanitha web developer makes websites all the internets"
+skills: "Hi! I'm Kanitha Player, a Creative Developer making websites and things for the interweb."
 meta_author: Player Kanitha
 
 # Google webmaster tools
@@ -47,8 +47,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Right Now
+  - line: Vancouver, British Columbia
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
