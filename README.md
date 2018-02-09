@@ -1,5 +1,6 @@
 Freelancer Jekyll theme
 =========================
+edit with the little pencil
 
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
